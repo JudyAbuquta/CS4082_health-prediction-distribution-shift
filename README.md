@@ -115,7 +115,7 @@ cd health-risk-prediction-distribution-shift
 pip install -r requirements.txt
 ```
 
-Set up [Kaggle API credentials](https://www.kaggle.com/docs/api), then open the notebook in Google Colab and run all cells top to bottom.
+Open the notebook in Google Colab and run all cells top to bottom.
 
 ---
 
@@ -123,10 +123,10 @@ Set up [Kaggle API credentials](https://www.kaggle.com/docs/api), then open the 
 
 | Member | Contributions |
 |---|---|
-| [Name 1] | |
-| [Name 2] | |
-| [Name 3] | |
-| [Name 4] | |
+| [Judy Abuquta] | |
+| [Nadine ElHaddad] | |
+| [Lama Alturki] | |
+| [Yara Mohamed] | |
 
 ---
 
@@ -134,8 +134,8 @@ Set up [Kaggle API credentials](https://www.kaggle.com/docs/api), then open the 
 
 - 📄 [Technical Report (PDF)](report/)
 - 🌐 [Portfolio Website](#)
-- 🎥 [Demo Video](#) *(optional)*
-
+- 🎥 [Poster (PDF)](report/)
+- 📄 [Slides (PDF)](report/)
 ---
 
 ## Instructor
