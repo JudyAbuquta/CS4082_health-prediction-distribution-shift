@@ -35,12 +35,13 @@ health-risk-prediction-distribution-shift/
 ├── poster/                               # A1/A0 research poster (PDF)
 ├── slides/                               # Presentation slides
 │
+├── index.html                            # Portfolio website (linked at end)
+│
 ├── requirements.txt
 └── README.md
 ```
 
 ---
-
 ## Notebook Structure
 
 | Phase | Description |
@@ -133,7 +134,7 @@ Open the notebook in Google Colab and run all cells top to bottom.
 ## Links
 
 - 📄 [Technical Report (PDF)](report/CS4082_Final_Report.pdf)
-- 🌐 [Portfolio Website](#)
+- 🌐 [Portfolio Website](https://judyabuquta.github.io/CS4082_health-prediction-distribution-shift/)
 - 🎥 [Poster (PDF)](report/)
 - 📄 [Slides (PDF)](report/)
 ---
