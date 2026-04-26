@@ -132,7 +132,7 @@ Open the notebook in Google Colab and run all cells top to bottom.
 
 ## Links
 
-- 📄 [Technical Report (PDF)](report/)
+- 📄 [Technical Report (PDF)](report/report/CS4082_Final_Report (1).pdf)
 - 🌐 [Portfolio Website](#)
 - 🎥 [Poster (PDF)](report/)
 - 📄 [Slides (PDF)](report/)
