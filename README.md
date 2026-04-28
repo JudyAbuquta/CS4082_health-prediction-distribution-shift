@@ -107,8 +107,8 @@ Open the notebook in Google Colab and run all cells top to bottom.
 
 - 📄 [Technical Report (PDF)](report/CS4082_Final_Report.pdf)
 - 🌐 [Portfolio Website](https://judyabuquta.github.io/CS4082_health-prediction-distribution-shift/)
-- 🎥 [Poster (PDF)](report/)
-- 📄 [Slides (PDF)](report/)
+- 🎥 [Poster (PDF)](report/poster.pdf)
+- 📄 [Slides (PDF)](report/CS4082_FinalPresentation.pdf)
 ---
 
 ## Instructor
