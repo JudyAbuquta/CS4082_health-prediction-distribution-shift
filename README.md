@@ -59,35 +59,7 @@ health-risk-prediction-distribution-shift/
 
 ---
 
-## Results
-
-### Phase 3 — In-Domain Baseline (UCI Validation Set)
-
-| Model | Accuracy | Precision | Recall | F1 Score | ROC-AUC |
-|---|---|---|---|---|---|
-| AdaBoost | 0.8370 | 0.8273 | 0.8922 | **0.8585** | **0.9036** |
-| Gradient Boosting | 0.8207 | 0.8165 | 0.8725 | 0.8436 | 0.8910 |
-| Random Forest | 0.8043 | 0.8190 | 0.8333 | 0.8309 | 0.8847 |
-| Logistic Regression | ~0.800 | ~0.810 | ~0.840 | ~0.820 | ~0.880 |
-| SVM | ~0.795 | ~0.800 | ~0.845 | ~0.820 | ~0.875 |
-| KNN | ~0.790 | ~0.800 | ~0.835 | ~0.815 | ~0.865 |
-| Naive Bayes | ~0.788 | 0.7944 | 0.8235 | 0.8134 | 0.8648 |
-
-### Phase 4 — Baseline OOD Evaluation (Framingham)
-
-> In-domain AUC of 0.86–0.90 dropped to 0.66–0.68. F1 collapsed from ~0.82–0.86 to 0.32–0.35.
-
-| Model | Precision | Recall | F1 Score | ROC-AUC |
-|---|---|---|---|---|
-| **AdaBoost** | 0.2767 | 0.4674 | **0.3476** | **0.6848** |
-| Gradient Boosting | 0.2629 | 0.4969 | 0.3439 | 0.6833 |
-| Logistic Regression | 0.2592 | 0.4720 | 0.3346 | 0.6775 |
-| Naive Bayes | 0.2408 | 0.5186 | 0.3289 | 0.6730 |
-| SVM | 0.2467 | 0.5575 | 0.3421 | 0.6695 |
-| KNN | 0.2403 | 0.5373 | 0.3321 | 0.6669 |
-| Random Forest | 0.2396 | 0.4907 | 0.3220 | 0.6570 |
-
-### Phase 8 — Final Comparison (All Strategies)
+## Results - Final Comparison (All Strategies)
 
 | Strategy | Model | Precision | Recall | F1 Score | ROC-AUC |
 |---|---|---|---|---|---|
